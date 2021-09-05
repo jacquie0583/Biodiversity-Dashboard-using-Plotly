@@ -1,7 +1,8 @@
 #  Belly Button Biodiversity Dashboard using Plotly...The coolest study of biodiversity on the human body on the planet!  Really! 
 
 ##  Scienctific History
-The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. In January 2011, we launched Belly Button Biodiversity to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. In addition to inspiring scientific curiosity, Belly Button Biodiversity inspired conversations about the beneficial roles microbes play in our daily lives.
+It started as small lab project that quickly transformed into the world’s first citizen science project exploring the microbial diversity of our bodies.The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. In January 2011, we launched Belly Button Biodiversity to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. In addition to inspiring scientific curiosity, Belly Button Biodiversity inspired conversations about the beneficial roles microbes play in our daily lives.
+Hundreds of eager navel-gazers participated in the study, donating samples at in-person events in the Raleigh-Durham area, many hosted by the NC Museum of Natural Sciences. In response to popular demand, we later opened up our study to people all over North America. We were overwhelmed by the response and stopped collecting samples in 2012.
 
 Actual Belly Button Bacteria:
 <p align="center">
