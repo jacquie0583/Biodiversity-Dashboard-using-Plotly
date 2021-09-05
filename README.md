@@ -23,6 +23,8 @@ The interactive dashboard explores the In this assignment, you will build an int
     3.	 Gauge Chart
     4.	 Customize the Dashboard
     5.	 Report on the Belly Button Biodiversity Dashboard analysis 
+#  [View Belly Button Dashboard](http://127.0.0.1:5500/index2.html)
+
 
 ## Resources 
 
