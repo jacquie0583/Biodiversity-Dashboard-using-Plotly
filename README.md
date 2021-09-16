@@ -19,18 +19,20 @@ The interactive dashboard explores the In this assignment, you will build an int
 </p> 
 
 ##  Elements Constructed: 
-    1.	 Horizontal Bar Chart
-    2.	 Bubble Chart
-    3.	 Gauge Chart
-    4.	 Customize the Dashboard
-    5.	 Report on the Belly Button Biodiversity Dashboard analysis 
+   1.	 Horizontal Bar Chart
+   2.	 Bubble Chart
+   3.	 Gauge Chart
+   4.	 Customize the Dashboard
+   5.	 Report on the Belly Button Biodiversity Dashboard analysis 
 #  [View Belly Button Dashboard](http://127.0.0.1:5500/index2.html)
 
 
 ## Resources 
 
-•	Data Source: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js,                              BellyButton_bubble_chart_starter_code.js and index.html
+•	Data Source: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js and index.html
+
 •	Data Tools: ECMAScript, JavaScript, JSON and IO (Web Server)
+
 •	Software: ES6+, ECMAScript and Visual Studio Code 1.50.0\
 
 ###  Overview of ES6+
